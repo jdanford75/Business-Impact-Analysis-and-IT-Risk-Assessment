@@ -1,46 +1,54 @@
-# Business Impact Analysis & IT Risk Assessment
+# Widget Software Inc. — Cybersecurity Resilience Planning Portfolio
 
-**Academic incident response and resilience planning project | CSIS 3342, Austin Community College | August 2026**
+**Four related academic labs | CSIS 3342: Incident Response and Handling | Austin Community College | August–September 2026**
 
-## Project overview
+## Overview
 
-Prepared a **Business Impact Analysis (BIA)** and **IT Risk Assessment Plan** for *Widget Software Inc.*, a fictional software company provided as a course scenario. The combined report identifies critical business functions, proposes recovery objectives, evaluates threats and risk ratings, and outlines corrective priorities.
+Prepared an integrated set of **contingency planning, business impact and risk assessment, incident response, and disaster recovery** documents for **Widget Software Inc.**, a fictional software company supplied as a course scenario.
 
-This is academic analysis of a simulated organization, **not a completed audit, deployment, or tested recovery plan for an actual business**.
+The four assignments demonstrate how governance, business priorities, technical response, and restoration planning fit together. This is **academic planning**, not an implemented or tested recovery program.
 
-## Deliverable
+## Project deliverables
 
-[Read the combined BIA and Risk Assessment Plan (DOCX)](Business_Impact_and_Risk_Assessment.docx)
+| Lab | Deliverable | What it demonstrates |
+| --- | --- | --- |
+| 1 | [Contingency Planning Policy (DOCX)](Lab1_Contingency_Planning_Policy.docx) | Policy purpose, scope, authority, responsibilities, and review/testing expectations |
+| 2 | [Business Impact Analysis & IT Risk Assessment (DOCX)](Business_Impact_and_Risk_Assessment.docx) | Critical process identification, estimated MTD/RTO/RPO values, system dependencies, risk ratings, and mitigation priorities |
+| 3 | [Information Security Incident Response Plan (DOCX)](Lab3_Incident_Response_Plan.docx) | Incident reporting, classification, command roles, technical response, evidence preservation, communications, and lessons learned |
+| 4 | [Disaster Recovery Plan (DOCX)](Lab4_Disaster_Recovery_Plan.docx) | Disaster activation, team responsibilities, call trees, backup and alternate-site requirements, restoration sequence, and recovery checklists |
 
-## Work demonstrated
+## How the plans connect
 
-- Categorized business functions by criticality and potential operational, financial, and customer impacts
-- Proposed **Maximum Tolerable Downtime (MTD)**, **Recovery Time Objectives (RTO)**, and **Recovery Point Objectives (RPO)** for key functions
-- Mapped recovery dependencies such as power, cooling, networks, Windows and Linux systems, collaboration tools, applications, and databases
-- Proposed a recovery sequence prioritizing essential infrastructure and customer support
-- Evaluated IT threats and vulnerabilities and documented risk ratings, recommended controls, and follow-up priorities
-- Distinguished the scenario's known capabilities from capabilities needing validation (e.g., offsite backups and alternate processing)
+**Contingency planning policy** establishes governance and responsibilities. The **Business Impact Analysis (BIA)** identifies what must be restored first and proposes recovery objectives. The **risk assessment** evaluates threats and mitigation priorities. The **incident response plan** addresses containment, evidence preservation, investigation, and coordination. The **disaster recovery plan** supports controlled restoration when normal response or service recovery is insufficient.
 
-## Example planning objectives
+## Selected academic recovery objectives
 
-| Business function | Proposed MTD | Proposed RTO | Proposed RPO |
+| Business process | Proposed MTD | Proposed RTO | Proposed RPO |
 | --- | --- | --- | --- |
 | IT / Datacenter operations | 8 hours | 4 hours | 4 hours |
 | Customer Support | 24 hours | 8 hours | 4 hours |
 | Finance | 48 hours | 24 hours | 24 hours |
 | Development | 48 hours | 24 hours | 8 hours |
 
-**These are proposed academic estimates, not company-approved targets, observed outages, or demonstrated recovery performance.**
+These are **planning estimates**, not approved organizational service levels or demonstrated recovery results.
 
 ## Skills demonstrated
 
-Business impact analysis; business continuity planning; disaster recovery prioritization; risk assessment; system dependency mapping; qualitative and numerical risk ratings; incident response planning; evidence-based documentation; and management-ready recommendations.
+- Policy development, control ownership, and cross-functional accountability
+- Business impact analysis and critical-service prioritization
+- Recovery objectives (MTD, RTO, RPO) and technical dependency mapping
+- IT risk assessment and documented mitigation recommendations
+- Incident reporting, triage, escalation, and chain-of-custody considerations
+- Disaster activation, recovery-team design, communication plans, and status documentation
+- Management-ready security and resilience documentation
 
 ## Scope and limitations
 
-- The fictional company information was supplied for coursework.
-- No staff interviews, production testing, backup restore tests, or live incident exercises were performed.
-- Actual recovery capabilities, backup arrangements, tolerances, and stakeholder approval were not verified.
-- The deliverable describes planning work and recommended controls, not real-world deployment or professional paid cyber risk experience.
+- **Widget Software Inc. is a fictional company** in an academic assignment.
+- Company scenario facts are distinguished from assumptions and recommendations in the source documents.
+- No live systems were assessed, employee interviews conducted, incident response exercised, or backups restored as part of these submissions.
+- Alternative recovery sites, backup schedules, contacts, and operational capabilities not supplied in the scenario require validation before practical use.
+- This portfolio does not claim paid incident response/GRC experience, certified compliance, operational adoption, or verified recovery outcomes.
 
-**Author:** Jack W. Danford Jr. — AAS Cybersecurity; BAS Cybersecurity in progress.
+**Author:** Jack W. Danford Jr.  
+AAS Cybersecurity — Austin Community College | BAS Cybersecurity in progress
