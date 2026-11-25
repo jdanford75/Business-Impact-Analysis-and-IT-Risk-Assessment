@@ -1,12 +1,12 @@
 # Widget Software Inc. — Cybersecurity Resilience Planning Portfolio
 
-**Four related academic labs | CSIS 3342: Incident Response and Handling | Austin Community College | August–September 2026**
+**Five related academic labs | CSIS 3342: Incident Response and Handling | Austin Community College | August–September 2026**
 
 ## Overview
 
-Prepared an integrated set of **contingency planning, business impact and risk assessment, incident response, and disaster recovery** documents for **Widget Software Inc.**, a fictional software company supplied as a course scenario.
+Prepared an integrated set of **contingency planning, business impact and risk assessment, incident response, disaster recovery, and business continuity** documents for **Widget Software Inc.**, a fictional software company supplied as a course scenario.
 
-The four assignments demonstrate how governance, business priorities, technical response, and restoration planning fit together. This is **academic planning**, not an implemented or tested recovery program.
+The five assignments demonstrate how governance, business priorities, technical response, and restoration planning fit together. This is **academic planning**, not an implemented or tested recovery program.
 
 ## Project deliverables
 
@@ -16,10 +16,11 @@ The four assignments demonstrate how governance, business priorities, technical 
 | 2 | [Business Impact Analysis & IT Risk Assessment (DOCX)](Business_Impact_and_Risk_Assessment.docx) | Critical process identification, estimated MTD/RTO/RPO values, system dependencies, risk ratings, and mitigation priorities |
 | 3 | [Information Security Incident Response Plan (DOCX)](Lab3_Incident_Response_Plan.docx) | Incident reporting, classification, command roles, technical response, evidence preservation, communications, and lessons learned |
 | 4 | [Disaster Recovery Plan (DOCX)](Lab4_Disaster_Recovery_Plan.docx) | Disaster activation, team responsibilities, call trees, backup and alternate-site requirements, restoration sequence, and recovery checklists |
+| 5 | [Business Continuity Plan (PDF)](Lab5_Business_Continuity_Plan.pdf) | Business-function recovery priorities, alternate-site operations, team responsibilities, and phased return to primary operations |
 
 ## How the plans connect
 
-**Contingency planning policy** establishes governance and responsibilities. The **Business Impact Analysis (BIA)** identifies what must be restored first and proposes recovery objectives. The **risk assessment** evaluates threats and mitigation priorities. The **incident response plan** addresses containment, evidence preservation, investigation, and coordination. The **disaster recovery plan** supports controlled restoration when normal response or service recovery is insufficient.
+**Contingency planning policy** establishes governance and responsibilities. The **Business Impact Analysis (BIA)** identifies what must be restored first and proposes recovery objectives. The **risk assessment** evaluates threats and mitigation priorities. The **incident response plan** addresses containment, evidence preservation, investigation, and coordination. The **disaster recovery plan** supports controlled restoration when normal response or service recovery is insufficient. The **business continuity plan** explains how priority functions would continue during a disruption, how teams would operate at an alternate site, and how they would return to primary operations.
 
 ## Selected academic recovery objectives
 
